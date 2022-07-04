@@ -1,0 +1,5 @@
+framework module ctemplate {
+    umbrella header "CtemplateFramework.h"
+    export *
+    module * { export * }
+}
